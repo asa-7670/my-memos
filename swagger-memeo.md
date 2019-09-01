@@ -1,7 +1,7 @@
 ## SWAGGER
 
 ### C'est quoi
-	# Fromwork qui permet de générer générer une documentation détaillée au format JSON,
+	# Fromwork qui permet de générer une documentation détaillée au format JSON,
 	# Répondant aux spécificationsOpenAPI. 
 	# Offre également la possibilité de visualiser cette documentation dans un format HTML élégant.
 
